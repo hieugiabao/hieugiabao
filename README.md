@@ -50,4 +50,4 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieugiabao)
 [![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hieu.giabao/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/hieund-1ab563199/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hieund-1ab563199/)
